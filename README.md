@@ -30,6 +30,7 @@ There must be an intern class that extends employee containing:
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
+* [Tests](#tests)
 * [Questions](#questions)
   
 ## Installation
@@ -38,10 +39,13 @@ A user will need to clone the repository to their local machine and run npm inst
 ## Usage
 The application is run by typing 'node index.js' into the command line and the user will be prompted to enter the manager details followed by options to add additional engineers or interns or an option to not add any more team members. When all details have been entered the index.html file is created.
 
-![demo of the application running](assets/READMEgenerator.gif)
+![demo of the application running](assets/TeamProfileGenerator.mp4)
 
 ## License
  MIT
+
+## Tests
+Classes have been tested with Jest. You can trigger the tests by running 'npm run test'.
 
 ## Questions
 You can find my GitHUb here: [Drrobertson9673](https://github.com/drrobertson9673)
