@@ -157,7 +157,7 @@ function createIntern(team) {
             }
         },
         {
-            name: "name",
+            name: "school",
             message: "What is the intern's school?",
             type: "text",
             validate(value) {

@@ -36,9 +36,9 @@ There must be an intern class that extends employee containing:
 A user will need to clone the repository to their local machine and run npm install to install the Inquirer and Jest packages.
 
 ## Usage
-The application is run by typing 'node index.js' into the command line and the user will be prompted with the questions. When all questions have been answered the index.html file is created.
+The application is run by typing 'node index.js' into the command line and the user will be prompted to enter the manager details followed by options to add additional engineers or interns or an option to not add any more team members. When all details have been entered the index.html file is created.
 
-  ![demo of the application running](assets/READMEgenerator.gif)
+![demo of the application running](assets/READMEgenerator.gif)
 
 ## License
  MIT
