@@ -39,7 +39,8 @@ A user will need to clone the repository to their local machine and run npm inst
 ## Usage
 The application is run by typing 'node index.js' into the command line and the user will be prompted to enter the manager details followed by options to add additional engineers or interns or an option to not add any more team members. When all details have been entered the index.html file is created.
 
-![demo of the application running](assets/TeamProfileGenerator.mp4)
+Video of application running:
+https://user-images.githubusercontent.com/117463641/221285086-3e21c95c-5fe4-4af9-a2b5-155791da0cff.mp4
 
 ## License
  MIT
